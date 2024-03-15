@@ -1,0 +1,86 @@
+body{
+    background-image: url(topbac.avif);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#photo{
+    position: absolute;
+    height: 50%;
+    width: 20%;
+    top: 30%;
+    left: 22%;
+    border-radius: 50%;
+    border: 5px solid yellow;
+    
+   
+}
+#box2{
+    position: absolute;
+    height: 30%;
+    width: 30%;
+    top: 30%;
+    left:45%;
+    /* background-color: aliceblue; */
+    color: aliceblue;
+} 
+#hello{
+    height: 40%;
+   
+    font-size: 90px;
+    /* background-color: yellow; */
+   
+}
+#box3{
+    position:absolute;
+    height: 25%;
+    width: 30%;
+    /* background-color: aliceblue; */
+    top: 55%;
+    left: 45%;
+}
+#circle1{
+    position:absolute;
+    display: inline-block;
+    top: 58%;
+    left: 45%;
+    height:19%;
+    width: 8.5%;
+    display: inline-block;
+    border-radius: 50%;
+    background-color:rgb(48, 43, 53);
+    border: 5px solid rgb(71, 71, 67);
+
+}
+#circle2{
+    position:absolute;
+    display: inline-block;
+    top: 58%;
+    left: 54.2%;
+    height:19%;
+    width: 8.5%;
+    display: inline-block;
+    border-radius: 50%;
+    background-color:rgb(48, 43, 53);
+    border: 5px solid rgb(71, 71, 67);
+
+}
+#circle3{
+    position:absolute;
+    display: inline-block;
+    top: 58%;
+    left: 63.4%;
+    height:19%;
+    width: 8.5%;
+    display: inline-block;
+    border-radius: 50%;
+    background-color:rgb(48, 43, 53);
+    border: 5px solid rgb(71, 71, 67);
+}
+.link{
+position:absolute;
+top: 30%;
+font-size: 40px;
+left: 5%;
+color: rgb(174, 218, 27);
+
+}
