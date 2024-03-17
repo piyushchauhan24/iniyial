@@ -1,0 +1,26 @@
+body{
+    background-image: url(backboy2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+#hello{
+    position:absolute;
+    /* background-color: aliceblue; */
+    height: 12%;
+    width: 40%;
+    font-size: 80px;
+    top: 5%;
+    left: 30%;
+}
+.link{
+    /* position: absolute; */
+    align-self:inline ;
+    height: 10%;
+    width: 20%;
+}
+#h1{
+    position: absolute;
+    top: 15%;
+    left: 30%;
+}
