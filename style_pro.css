@@ -18,9 +18,28 @@ body{
     align-self:inline ;
     height: 10%;
     width: 20%;
+    text-decoration: none;
 }
 #h1{
     position: absolute;
     top: 15%;
     left: 30%;
+}
+#box1{
+    position: absolute;
+    height: 20%;
+    width: 30%;
+    top: 45%;
+    left: 10%;
+    font-size: 40px;
+}
+#box2{
+    position: absolute;
+    height: 20%;
+    width: 40%;
+    top: 45%;
+    left: 60%;
+    font-size: 40px;
+   
+
 }
